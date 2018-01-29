@@ -1,6 +1,6 @@
 # joke
     一个获取笑话的命令行小工具
-###shell
+### shell
     cd joke
     npm install
     npm link
