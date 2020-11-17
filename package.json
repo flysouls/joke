@@ -1,7 +1,7 @@
 {
-  "name": "hi",
+  "name": "hi-joke",
   "version": "1.0.0",
-  "description": "没有描述，呵呵",
+  "description": "获取笑话的命令行工具",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,7 +19,7 @@
     "hi": "bin/hi.js"
   },
   "dependencies": {
-    "axios": "^0.16.2",
+    "axios": "^0.21.0",
     "cheerio": "^1.0.0-rc.2",
     "colors": "^1.1.2",
     "readline": "^1.3.0"
